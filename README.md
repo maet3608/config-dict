@@ -1,7 +1,7 @@
 # Configuration dictionary
 
 A dictionary class to hold configuration data. Operates the same way as a plain
-Python dictionary but allows to access data via dot notation instead of
+Python dictionary but allows accessing data via dot notation instead of
 brackets with key values.
 
 ## Example
