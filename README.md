@@ -56,7 +56,7 @@ wrapped into `Config`:
 Downing
 ```
 
-Finally, configurations can be loaded from and save to JSON files
+Finally, configurations can be loaded from and saved to JSON files
 
 ```python
 contact = Config.load('contactdata.json')
